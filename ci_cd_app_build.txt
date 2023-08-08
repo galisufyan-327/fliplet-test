@@ -1,0 +1,4 @@
+I will prefer to use something like Microsoft app center for this specific scenario
+                                    OR
+We can use self hosted service like Jenkins or Cloud based service like CircleCI (need to check if our required platform supports the service)
+and write the pipeline to test and build and serve the app
