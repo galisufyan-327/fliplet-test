@@ -1,0 +1,7 @@
+First of all this can only be done for android as far as I know
+
+I will upload a newer version of the app to our backend server having name and version as a database entry
+
+Create and API for the version check which takes current version as a param and serve newer version of application if found
+
+Or we can use something like Microsoft APP Center and put our build there.
