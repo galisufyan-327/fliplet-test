@@ -1,0 +1,3 @@
+First of All for the poor connection we can utilize queue based approach so multiple assets keeps downloading on background
+
+Second we need to resize the assets on request, we can use some sort of library for that
