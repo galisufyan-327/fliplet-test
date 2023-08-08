@@ -1,0 +1,7 @@
+First of all I will evaluate the changes from current version to newer then
+install newer version with some alias to be able to use both until all the changes are done
+
+- Take the smallest possible migration and model and start converting it
+- Test all the changes one by one
+- Commit the changes one by one to be able to rollback quickly if something went wrong
+- I will include some sort of error and reporting tool just to be sure that everything will go smoothly
